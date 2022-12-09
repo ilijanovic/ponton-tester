@@ -14,18 +14,18 @@ export const createDatenMsg = (
   let creationTime = new Date().toISOString();
 
   let payload = {
-    "cp:CMRequest": {
+    "cp:ConsumptionRecord": {
       "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
       "@xmlns:cp":
-        "http://www.ebutilities.at/schemata/customerprocesses/consumptionrecord/01p31",
+        "http://www.ebutilities.at/schemata/customerprocesses/consumptionrecord/01p30",
       "@xmlns:ct":
         "http://www.ebutilities.at/schemata/customerprocesses/common/types/01p20",
       "@xsi:schemaLocation":
-        "http://www.ebutilities.at/schemata/customerprocesses/consumptionrecord/01p30 ConsumptionRecord_01p31.xsd",
+        "http://www.ebutilities.at/schemata/customerprocesses/consumptionrecord/01p30 ConsumptionRecord_01p30.xsd",
       "cp:MarketParticipantDirectory": {
         "@DocumentMode": "PROD",
         "@Duplicate": "true",
-        "@SchemaVersion": "01.31",
+        "@SchemaVersion": "01.30",
         "ct:RoutingHeader": {
           "ct:Sender": {
             "@AddressType": "ECNumber",
