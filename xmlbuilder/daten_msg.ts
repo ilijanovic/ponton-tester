@@ -14,7 +14,7 @@ export const createDatenMsg = (
   let creationTime = new Date().toISOString();
 
   let payload = {
-    "cp:ConsumptionRecord": {
+    "ns2:ConsumptionRecord": {
       "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
       "@xmlns:cp":
         "http://www.ebutilities.at/schemata/customerprocesses/consumptionrecord/01p30",
@@ -22,7 +22,7 @@ export const createDatenMsg = (
         "http://www.ebutilities.at/schemata/customerprocesses/common/types/01p20",
       "@xsi:schemaLocation":
         "http://www.ebutilities.at/schemata/customerprocesses/consumptionrecord/01p30 ConsumptionRecord_01p30.xsd",
-      "cp:MarketParticipantDirectory": {
+      "ns2:MarketParticipantDirectory": {
         "@DocumentMode": "PROD",
         "@Duplicate": "true",
         "@SchemaVersion": "01.30",
@@ -38,27 +38,27 @@ export const createDatenMsg = (
           "ct:DocumentCreationDateTime": creationTime,
         },
         "ct:Sector": "01",
-        "cp:MessageCode": "DATEN_CRMSG",
+        "ns2:MessageCode": "DATEN_CRMSG",
       },
-      "cp:ProcessDirectory": {
+      "ns2:ProcessDirectory": {
         "ct:MessageId": messageId,
         "ct:ConversationId": conversationId,
-        "cp:ProcessDate": processDate,
-        "cp:MeteringPoint": meteringPoint,
-        "cp:Energy": energydata.map((e) => ({
-          "cp:MeteringReason": e.MeteringReason,
-          "cp:MeteringPeriodStart": e.MeteringPeriodStart,
-          "cp:MeteringPeriodEnd": e.MeteringPeriodEnd,
-          "cp:MeteringIntervall": e.MeteringIntervall,
-          "cp:NumberOfMeteringIntervall": e.data.length,
-          "cp:EnergyData": {
+        "ns2:ProcessDate": processDate,
+        "ns2:MeteringPoint": meteringPoint,
+        "ns2:Energy": energydata.map((e) => ({
+          "ns2:MeteringReason": e.MeteringReason,
+          "ns2:MeteringPeriodStart": e.MeteringPeriodStart,
+          "ns2:MeteringPeriodEnd": e.MeteringPeriodEnd,
+          "ns2:MeteringIntervall": e.MeteringIntervall,
+          "ns2:NumberOfMeteringIntervall": e.data.length,
+          "ns2:EnergyData": {
             "@MeterCode": e.MeterCode,
             "@UOM": "KWH",
-            "cp:EP": e.data.map((d) => ({
-              "cp:DTF": d.DTF,
-              "cp:DTT": d.DTT,
-              "cp:MM": d.MM,
-              "cp:BQ": d.BQ,
+            "ns2:EP": e.data.map((d) => ({
+              "ns2:DTF": d.DTF,
+              "ns2:DTT": d.DTT,
+              "ns2:MM": d.MM,
+              "ns2:BQ": d.BQ,
             })),
           },
         })),
