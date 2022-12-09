@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cp:ConsumptionRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ct="http://www.ebutilities.at/schemata/customerprocesses/common/types/01p20"
+    xmlns:cp="http://www.ebutilities.at/schemata/customerprocesses/consumptionrecord/01p31" xsi:schemaLocation="http://www.ebutilities.at/schemata/customerprocesses/consumptionrecord/01p30 ConsumptionRecord_01p31.xsd">
+    <cp:MarketParticipantDirectory DocumentMode="PROD" Duplicate="true" SchemaVersion="01.31">
+        <ct:RoutingHeader>
+            <ct:Sender AddressType="ECNumber">
+                <ct:MessageAddress>AT001000</ct:MessageAddress>
+            </ct:Sender>
+            <ct:Receiver AddressType="ECNumber ">
+                <ct:MessageAddress>AT001234</ct:MessageAddress>
+            </ct:Receiver>
+            <ct:DocumentCreationDateTime>2020-12-17T09:30:47Z</ct:DocumentCreationDateTime>
+        </ct:RoutingHeader>
+        <ct:Sector>01</ct:Sector>
+        <cp:MessageCode>DATEN_CRMSG</cp:MessageCode>
+    </cp:MarketParticipantDirectory>
+    <cp:ProcessDirectory>
+        <ct:MessageId>AT001000202012241345591230001234567</ct:MessageId>
+        <ct:ConversationId>AT001000202012241346011000001234568</ct:ConversationId>
+        <ct:ProcessDate>2020-01-13</ct:ProcessDate>
+        <ct:MeteringPoint>AT001000099990000123123123123123</ct:MeteringPoint>
+        <cp:Energy>
+            <cp:MeteringReason>00</cp:MeteringReason>
+            <cp:MeteringPeriodStart>2019-12-17T00:00:00+01:00</cp:MeteringPeriodStart>
+            <cp:MeteringPeriodEnd>2019-12-19T00:00:00+01:00</cp:MeteringPeriodEnd>
+            <cp:MeteringIntervall>D</cp:MeteringIntervall>
+            <cp:NumberOfMeteringIntervall>2</cp:NumberOfMeteringIntervall>
+            <cp:EnergyData MeterCode="1-1:1.9.0 P01" UOM="KWH">
+                <cp:EP>
+                    <cp:DTF>2019-12-17T23:00:00+01:00</cp:DTF>
+                    <cp:DTT>2019-12-18T23:00:00+01:00</cp:DTT>
+                    <cp:MM>L1</cp:MM>
+                    <cp:BQ>24</cp:BQ>
+                </cp:EP>
+                <cp:EP>
+                    <cp:DTF>2019-12-18T23:00:00+01:00</cp:DTF>
+                    <cp:DTT>2019-12-19T23:00:00+01:00</cp:DTT>
+                    <cp:MM>L1</cp:MM>
+                    <cp:BQ>28</cp:BQ>
+                </cp:EP>
+            </cp:EnergyData>
+        </cp:Energy>
+    </cp:ProcessDirectory>
+</cp:ConsumptionRecord>
+
