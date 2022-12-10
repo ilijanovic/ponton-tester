@@ -26,25 +26,25 @@ export const createDatenMsg = (
         "@DocumentMode": "PROD",
         "@Duplicate": "true",
         "@SchemaVersion": "01.30",
-        "ct:RoutingHeader": {
-          "ct:Sender": {
+        RoutingHeader: {
+          Sender: {
             "@AddressType": "ECNumber",
-            "ct:MessageAddress": sender,
+            MessageAddress: sender,
           },
-          "ct:Receiver": {
+          Receiver: {
             "@AddressType": "ECNumber",
-            "ct:MessageAddress": receiver,
+            MessageAddress: receiver,
           },
-          "ct:DocumentCreationDateTime": creationTime,
+          DocumentCreationDateTime: creationTime,
         },
-        "ct:Sector": "01",
+        Sector: "01",
         "ns2:MessageCode": "DATEN_CRMSG",
       },
       "ns2:ProcessDirectory": {
-        "ct:MessageId": messageId,
-        "ct:ConversationId": conversationId,
-        "ns2:ProcessDate": processDate,
-        "ns2:MeteringPoint": meteringPoint,
+        MessageId: messageId,
+        ConversationId: conversationId,
+        ProcessDate: processDate,
+        MeteringPoint: meteringPoint,
         "ns2:Energy": energydata.map((e) => ({
           "ns2:MeteringReason": e.MeteringReason,
           "ns2:MeteringPeriodStart": e.MeteringPeriodStart,
