@@ -44,8 +44,8 @@ meterCodes.forEach((metercode) => {
         0,
         //@ts-ignore
         energydata[0]?.data[i]?.BQ >= energydata[1]?.data[i]?.BQ
-          ? energydata[1]?.data[i]?.BQ
-          : energydata[0]?.data[i]?.BQ
+          ? energydata[0]?.data[i]?.BQ
+          : energydata[1]?.data[i]?.BQ
       );
     }
     data.push({
