@@ -8,1768 +8,1768 @@
       <Receiver AddressType="ECNumber">
         <MessageAddress>AT003000</MessageAddress>
       </Receiver>
-      <DocumentCreationDateTime>2022-12-10T14:23:08.579Z</DocumentCreationDateTime>
+      <DocumentCreationDateTime>2022-12-12T09:09:51.159Z</DocumentCreationDateTime>
     </RoutingHeader>
     <Sector>01</Sector>
     <ns2:MessageCode>DATEN_CRMSG</ns2:MessageCode>
   </ns2:MarketParticipantDirectory>
   <ns2:ProcessDirectory>
-    <MessageId>9dc94770a13b43c993b3535994c020c0</MessageId>
-    <ConversationId>2f48d46d0ccd440fb6fede36945156a8</ConversationId>
-    <ProcessDate>2022-12-10</ProcessDate>
+    <MessageId>7d6db54152ca46d385905a5a9542008b</MessageId>
+    <ConversationId>b6a25699d7504c1ea96747cf05b2f42d</ConversationId>
+    <ProcessDate>2022-12-12</ProcessDate>
     <MeteringPoint>AT0030020000000000000000000000</MeteringPoint>
     <ns2:Energy>
       <ns2:MeteringReason>00</ns2:MeteringReason>
-      <ns2:MeteringPeriodStart>2022-12-10T00:00:00+01:00</ns2:MeteringPeriodStart>
-      <ns2:MeteringPeriodEnd>2022-12-11T00:00:00+01:00</ns2:MeteringPeriodEnd>
+      <ns2:MeteringPeriodStart>2022-12-12T00:00:00+01:00</ns2:MeteringPeriodStart>
+      <ns2:MeteringPeriodEnd>2022-12-13T00:00:00+01:00</ns2:MeteringPeriodEnd>
       <ns2:MeteringIntervall>QH</ns2:MeteringIntervall>
       <ns2:NumberOfMeteringIntervall>96</ns2:NumberOfMeteringIntervall>
       <ns2:EnergyData MeterCode="1-1:1.9.0 G.01" UOM="KWH">
         <ns2:EP>
-          <ns2:DTF>2022-12-10T00:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T00:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T00:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T00:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.339314</ns2:BQ>
+          <ns2:BQ>1.415878</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T00:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T00:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T00:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T00:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.334806</ns2:BQ>
+          <ns2:BQ>0.767913</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T00:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T00:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T00:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T00:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.033500</ns2:BQ>
+          <ns2:BQ>1.155315</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T00:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T01:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T00:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T01:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.127816</ns2:BQ>
+          <ns2:BQ>0.141940</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T01:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T01:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T01:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T01:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.061351</ns2:BQ>
+          <ns2:BQ>0.933890</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T01:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T01:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T01:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T01:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.136515</ns2:BQ>
+          <ns2:BQ>1.267497</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T01:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T01:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T01:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T01:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.359737</ns2:BQ>
+          <ns2:BQ>0.863776</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T01:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T02:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T01:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T02:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.970994</ns2:BQ>
+          <ns2:BQ>0.813982</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T02:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T02:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T02:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T02:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.518686</ns2:BQ>
+          <ns2:BQ>1.128042</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T02:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T02:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T02:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T02:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.358049</ns2:BQ>
+          <ns2:BQ>1.457758</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T02:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T02:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T02:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T02:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.270929</ns2:BQ>
+          <ns2:BQ>0.796646</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T02:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T03:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T02:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T03:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.983788</ns2:BQ>
+          <ns2:BQ>0.255295</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T03:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T03:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T03:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T03:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.343378</ns2:BQ>
+          <ns2:BQ>0.298425</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T03:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T03:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T03:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T03:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.520017</ns2:BQ>
+          <ns2:BQ>0.363190</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T03:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T03:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T03:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T03:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.715952</ns2:BQ>
+          <ns2:BQ>0.646641</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T03:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T04:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T03:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T04:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.531289</ns2:BQ>
+          <ns2:BQ>0.496027</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T04:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T04:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T04:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T04:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.060401</ns2:BQ>
+          <ns2:BQ>0.275291</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T04:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T04:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T04:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T04:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.679651</ns2:BQ>
+          <ns2:BQ>0.336955</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T04:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T04:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T04:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T04:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.615642</ns2:BQ>
+          <ns2:BQ>0.912916</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T04:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T05:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T04:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T05:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.822885</ns2:BQ>
+          <ns2:BQ>0.584046</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T05:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T05:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T05:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T05:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.144381</ns2:BQ>
+          <ns2:BQ>1.020993</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T05:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T05:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T05:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T05:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.167666</ns2:BQ>
+          <ns2:BQ>0.547206</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T05:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T05:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T05:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T05:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.441934</ns2:BQ>
+          <ns2:BQ>0.810345</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T05:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T06:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T05:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T06:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.309226</ns2:BQ>
+          <ns2:BQ>1.491738</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T06:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T06:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T06:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T06:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.772139</ns2:BQ>
+          <ns2:BQ>1.347892</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T06:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T06:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T06:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T06:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.790066</ns2:BQ>
+          <ns2:BQ>1.345693</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T06:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T06:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T06:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T06:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.259697</ns2:BQ>
+          <ns2:BQ>0.364306</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T06:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T07:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T06:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T07:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.638017</ns2:BQ>
+          <ns2:BQ>0.759457</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T07:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T07:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T07:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T07:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.871604</ns2:BQ>
+          <ns2:BQ>0.679656</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T07:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T07:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T07:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T07:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.881681</ns2:BQ>
+          <ns2:BQ>1.752299</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T07:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T07:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T07:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T07:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.422356</ns2:BQ>
+          <ns2:BQ>0.329756</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T07:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T08:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T07:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T08:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.619848</ns2:BQ>
+          <ns2:BQ>1.700201</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T08:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T08:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T08:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T08:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.994405</ns2:BQ>
+          <ns2:BQ>1.230166</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T08:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T08:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T08:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T08:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.968352</ns2:BQ>
+          <ns2:BQ>1.958203</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T08:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T08:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T08:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T08:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.759010</ns2:BQ>
+          <ns2:BQ>0.799224</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T08:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T09:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T08:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T09:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.409075</ns2:BQ>
+          <ns2:BQ>0.697104</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T09:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T09:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T09:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T09:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.370704</ns2:BQ>
+          <ns2:BQ>1.079501</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T09:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T09:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T09:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T09:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.437046</ns2:BQ>
+          <ns2:BQ>1.811442</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T09:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T09:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T09:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T09:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.062867</ns2:BQ>
+          <ns2:BQ>1.957372</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T09:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T10:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T09:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T10:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.390121</ns2:BQ>
+          <ns2:BQ>1.727812</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T10:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T10:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T10:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T10:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.781869</ns2:BQ>
+          <ns2:BQ>0.884584</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T10:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T10:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T10:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T10:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.912222</ns2:BQ>
+          <ns2:BQ>1.188531</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T10:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T10:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T10:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T10:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.613444</ns2:BQ>
+          <ns2:BQ>1.759391</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T10:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T11:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T10:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T11:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.402367</ns2:BQ>
+          <ns2:BQ>1.717569</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T11:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T11:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T11:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T11:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.905876</ns2:BQ>
+          <ns2:BQ>1.483002</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T11:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T11:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T11:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T11:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.876117</ns2:BQ>
+          <ns2:BQ>0.537894</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T11:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T11:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T11:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T11:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.312286</ns2:BQ>
+          <ns2:BQ>0.784614</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T11:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T12:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T11:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T12:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.470613</ns2:BQ>
+          <ns2:BQ>1.667179</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T12:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T12:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T12:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T12:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.557136</ns2:BQ>
+          <ns2:BQ>1.248264</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T12:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T12:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T12:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T12:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.899598</ns2:BQ>
+          <ns2:BQ>2.043293</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T12:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T12:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T12:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T12:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>2.051900</ns2:BQ>
+          <ns2:BQ>2.211979</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T12:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T13:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T12:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T13:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.194669</ns2:BQ>
+          <ns2:BQ>2.000110</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T13:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T13:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T13:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T13:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.261549</ns2:BQ>
+          <ns2:BQ>2.156827</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T13:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T13:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T13:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T13:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.781151</ns2:BQ>
+          <ns2:BQ>2.146269</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T13:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T13:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T13:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T13:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.497640</ns2:BQ>
+          <ns2:BQ>0.977190</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T13:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T14:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T13:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T14:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.976782</ns2:BQ>
+          <ns2:BQ>1.020132</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T14:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T14:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T14:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T14:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.947541</ns2:BQ>
+          <ns2:BQ>1.472143</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T14:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T14:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T14:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T14:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.877660</ns2:BQ>
+          <ns2:BQ>1.629685</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T14:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T14:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T14:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T14:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.987953</ns2:BQ>
+          <ns2:BQ>1.649024</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T14:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T15:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T14:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T15:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.663042</ns2:BQ>
+          <ns2:BQ>1.638655</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T15:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T15:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T15:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T15:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.903790</ns2:BQ>
+          <ns2:BQ>1.271658</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T15:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T15:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T15:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T15:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.103070</ns2:BQ>
+          <ns2:BQ>2.240618</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T15:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T15:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T15:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T15:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.626055</ns2:BQ>
+          <ns2:BQ>0.835379</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T15:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T16:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T15:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T16:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.855175</ns2:BQ>
+          <ns2:BQ>1.354946</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T16:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T16:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T16:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T16:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>2.136005</ns2:BQ>
+          <ns2:BQ>2.114467</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T16:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T16:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T16:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T16:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.783849</ns2:BQ>
+          <ns2:BQ>2.225683</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T16:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T16:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T16:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T16:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.653515</ns2:BQ>
+          <ns2:BQ>1.061363</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T16:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T17:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T16:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T17:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.780298</ns2:BQ>
+          <ns2:BQ>0.910862</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T17:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T17:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T17:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T17:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.229828</ns2:BQ>
+          <ns2:BQ>1.388846</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T17:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T17:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T17:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T17:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.866936</ns2:BQ>
+          <ns2:BQ>1.757960</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T17:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T17:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T17:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T17:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.834934</ns2:BQ>
+          <ns2:BQ>1.064857</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T17:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T18:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T17:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T18:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.255836</ns2:BQ>
+          <ns2:BQ>0.207444</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T18:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T18:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T18:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T18:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.309527</ns2:BQ>
+          <ns2:BQ>0.508800</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T18:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T18:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T18:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T18:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.534948</ns2:BQ>
+          <ns2:BQ>0.849267</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T18:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T18:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T18:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T18:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.296853</ns2:BQ>
+          <ns2:BQ>0.799747</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T18:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T19:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T18:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T19:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.222664</ns2:BQ>
+          <ns2:BQ>0.932687</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T19:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T19:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T19:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T19:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.239850</ns2:BQ>
+          <ns2:BQ>0.635467</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T19:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T19:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T19:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T19:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.176756</ns2:BQ>
+          <ns2:BQ>1.001523</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T19:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T19:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T19:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T19:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.344007</ns2:BQ>
+          <ns2:BQ>0.406865</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T19:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T20:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T19:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T20:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.931418</ns2:BQ>
+          <ns2:BQ>0.970985</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T20:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T20:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T20:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T20:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.183436</ns2:BQ>
+          <ns2:BQ>0.183257</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T20:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T20:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T20:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T20:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.197999</ns2:BQ>
+          <ns2:BQ>1.011255</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T20:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T20:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T20:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T20:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.773056</ns2:BQ>
+          <ns2:BQ>0.511962</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T20:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T21:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T20:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T21:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.935575</ns2:BQ>
+          <ns2:BQ>0.798740</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T21:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T21:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T21:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T21:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.894349</ns2:BQ>
+          <ns2:BQ>0.937256</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T21:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T21:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T21:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T21:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.903628</ns2:BQ>
+          <ns2:BQ>0.712288</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T21:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T21:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T21:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T21:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.886041</ns2:BQ>
+          <ns2:BQ>0.553723</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T21:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T22:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T21:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T22:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.311804</ns2:BQ>
+          <ns2:BQ>1.008734</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T22:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T22:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T22:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T22:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.487692</ns2:BQ>
+          <ns2:BQ>1.223345</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T22:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T22:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T22:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T22:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.528513</ns2:BQ>
+          <ns2:BQ>0.398245</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T22:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T22:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T22:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T22:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.356800</ns2:BQ>
+          <ns2:BQ>1.455802</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T22:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T23:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T22:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T23:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.609913</ns2:BQ>
+          <ns2:BQ>1.469956</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T23:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T23:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T23:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T23:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.170592</ns2:BQ>
+          <ns2:BQ>0.827850</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T23:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T23:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T23:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T23:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.253711</ns2:BQ>
+          <ns2:BQ>0.363954</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T23:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T23:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T23:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T23:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.758604</ns2:BQ>
+          <ns2:BQ>1.045434</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T23:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-11T00:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T23:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-13T00:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.725279</ns2:BQ>
+          <ns2:BQ>0.777504</ns2:BQ>
         </ns2:EP>
       </ns2:EnergyData>
     </ns2:Energy>
     <ns2:Energy>
       <ns2:MeteringReason>00</ns2:MeteringReason>
-      <ns2:MeteringPeriodStart>2022-12-10T00:00:00+01:00</ns2:MeteringPeriodStart>
-      <ns2:MeteringPeriodEnd>2022-12-11T00:00:00+01:00</ns2:MeteringPeriodEnd>
+      <ns2:MeteringPeriodStart>2022-12-12T00:00:00+01:00</ns2:MeteringPeriodStart>
+      <ns2:MeteringPeriodEnd>2022-12-13T00:00:00+01:00</ns2:MeteringPeriodEnd>
       <ns2:MeteringIntervall>QH</ns2:MeteringIntervall>
       <ns2:NumberOfMeteringIntervall>96</ns2:NumberOfMeteringIntervall>
       <ns2:EnergyData MeterCode="1-1:2.9.0 G.02" UOM="KWH">
         <ns2:EP>
-          <ns2:DTF>2022-12-10T00:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T00:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T00:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T00:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.750559</ns2:BQ>
+          <ns2:BQ>0.608919</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T00:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T00:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T00:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T00:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.806222</ns2:BQ>
+          <ns2:BQ>0.319112</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T00:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T00:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T00:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T00:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.414991</ns2:BQ>
+          <ns2:BQ>0.309220</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T00:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T01:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T00:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T01:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.158094</ns2:BQ>
+          <ns2:BQ>1.008988</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T01:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T01:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T01:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T01:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.885691</ns2:BQ>
+          <ns2:BQ>0.605841</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T01:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T01:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T01:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T01:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.363588</ns2:BQ>
+          <ns2:BQ>0.613305</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T01:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T01:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T01:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T01:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.419759</ns2:BQ>
+          <ns2:BQ>1.046849</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T01:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T02:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T01:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T02:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.861865</ns2:BQ>
+          <ns2:BQ>0.097598</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T02:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T02:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T02:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T02:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.049057</ns2:BQ>
+          <ns2:BQ>0.582822</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T02:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T02:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T02:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T02:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.515144</ns2:BQ>
+          <ns2:BQ>0.654508</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T02:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T02:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T02:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T02:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.838314</ns2:BQ>
+          <ns2:BQ>0.403498</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T02:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T03:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T02:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T03:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.466991</ns2:BQ>
+          <ns2:BQ>0.344994</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T03:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T03:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T03:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T03:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.999940</ns2:BQ>
+          <ns2:BQ>0.097451</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T03:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T03:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T03:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T03:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.894439</ns2:BQ>
+          <ns2:BQ>0.429414</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T03:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T03:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T03:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T03:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.295146</ns2:BQ>
+          <ns2:BQ>1.056919</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T03:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T04:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T03:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T04:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.115542</ns2:BQ>
+          <ns2:BQ>0.752332</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T04:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T04:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T04:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T04:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.839038</ns2:BQ>
+          <ns2:BQ>0.365168</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T04:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T04:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T04:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T04:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.537896</ns2:BQ>
+          <ns2:BQ>0.431382</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T04:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T04:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T04:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T04:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.500583</ns2:BQ>
+          <ns2:BQ>0.228140</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T04:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T05:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T04:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T05:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.060343</ns2:BQ>
+          <ns2:BQ>0.651138</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T05:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T05:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T05:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T05:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.826193</ns2:BQ>
+          <ns2:BQ>0.232926</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T05:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T05:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T05:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T05:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.417262</ns2:BQ>
+          <ns2:BQ>0.177045</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T05:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T05:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T05:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T05:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.031019</ns2:BQ>
+          <ns2:BQ>0.361065</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T05:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T06:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T05:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T06:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.865688</ns2:BQ>
+          <ns2:BQ>0.323429</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T06:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T06:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T06:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T06:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.489869</ns2:BQ>
+          <ns2:BQ>0.054582</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T06:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T06:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T06:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T06:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.667368</ns2:BQ>
+          <ns2:BQ>0.983618</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T06:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T06:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T06:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T06:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.729670</ns2:BQ>
+          <ns2:BQ>1.749767</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T06:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T07:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T06:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T07:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.400123</ns2:BQ>
+          <ns2:BQ>0.514505</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T07:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T07:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T07:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T07:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.411070</ns2:BQ>
+          <ns2:BQ>0.405260</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T07:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T07:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T07:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T07:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.385514</ns2:BQ>
+          <ns2:BQ>1.752179</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T07:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T07:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T07:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T07:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.547797</ns2:BQ>
+          <ns2:BQ>1.151657</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T07:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T08:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T07:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T08:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.482903</ns2:BQ>
+          <ns2:BQ>1.750533</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T08:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T08:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T08:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T08:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.561972</ns2:BQ>
+          <ns2:BQ>0.489878</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T08:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T08:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T08:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T08:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.391801</ns2:BQ>
+          <ns2:BQ>0.572355</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T08:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T08:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T08:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T08:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.364969</ns2:BQ>
+          <ns2:BQ>0.986287</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T08:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T09:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T08:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T09:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.798498</ns2:BQ>
+          <ns2:BQ>0.396376</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T09:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T09:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T09:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T09:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.360916</ns2:BQ>
+          <ns2:BQ>0.586184</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T09:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T09:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T09:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T09:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.556724</ns2:BQ>
+          <ns2:BQ>0.961125</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T09:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T09:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T09:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T09:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.359616</ns2:BQ>
+          <ns2:BQ>1.629220</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T09:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T10:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T09:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T10:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.420171</ns2:BQ>
+          <ns2:BQ>1.313551</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T10:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T10:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T10:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T10:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.597894</ns2:BQ>
+          <ns2:BQ>0.771712</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T10:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T10:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T10:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T10:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.392255</ns2:BQ>
+          <ns2:BQ>0.371328</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T10:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T10:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T10:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T10:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.608577</ns2:BQ>
+          <ns2:BQ>1.144609</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T10:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T11:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T10:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T11:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.333964</ns2:BQ>
+          <ns2:BQ>1.484729</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T11:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T11:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T11:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T11:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.397595</ns2:BQ>
+          <ns2:BQ>0.828680</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T11:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T11:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T11:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T11:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.317215</ns2:BQ>
+          <ns2:BQ>1.419491</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T11:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T11:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T11:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T11:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.581921</ns2:BQ>
+          <ns2:BQ>0.908547</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T11:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T12:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T11:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T12:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.308069</ns2:BQ>
+          <ns2:BQ>1.707697</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T12:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T12:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T12:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T12:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.689521</ns2:BQ>
+          <ns2:BQ>0.740746</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T12:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T12:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T12:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T12:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.848040</ns2:BQ>
+          <ns2:BQ>1.602152</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T12:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T12:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T12:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T12:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.297678</ns2:BQ>
+          <ns2:BQ>0.978828</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T12:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T13:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T12:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T13:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.672195</ns2:BQ>
+          <ns2:BQ>1.130489</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T13:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T13:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T13:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T13:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.935266</ns2:BQ>
+          <ns2:BQ>1.430701</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T13:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T13:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T13:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T13:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.333269</ns2:BQ>
+          <ns2:BQ>1.641205</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T13:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T13:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T13:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T13:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>2.209794</ns2:BQ>
+          <ns2:BQ>1.372099</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T13:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T14:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T13:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T14:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.880807</ns2:BQ>
+          <ns2:BQ>1.738722</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T14:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T14:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T14:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T14:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>2.317413</ns2:BQ>
+          <ns2:BQ>1.182057</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T14:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T14:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T14:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T14:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.717231</ns2:BQ>
+          <ns2:BQ>0.869222</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T14:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T14:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T14:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T14:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.827836</ns2:BQ>
+          <ns2:BQ>1.023262</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T14:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T15:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T14:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T15:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>2.189728</ns2:BQ>
+          <ns2:BQ>1.244331</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T15:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T15:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T15:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T15:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.640746</ns2:BQ>
+          <ns2:BQ>1.874370</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T15:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T15:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T15:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T15:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.710127</ns2:BQ>
+          <ns2:BQ>1.029317</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T15:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T15:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T15:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T15:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.603270</ns2:BQ>
+          <ns2:BQ>2.374032</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T15:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T16:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T15:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T16:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.440445</ns2:BQ>
+          <ns2:BQ>1.257121</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T16:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T16:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T16:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T16:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.888162</ns2:BQ>
+          <ns2:BQ>1.564790</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T16:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T16:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T16:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T16:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>2.354851</ns2:BQ>
+          <ns2:BQ>1.751897</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T16:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T16:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T16:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T16:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.749248</ns2:BQ>
+          <ns2:BQ>2.381052</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T16:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T17:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T16:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T17:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>2.278135</ns2:BQ>
+          <ns2:BQ>1.551611</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T17:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T17:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T17:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T17:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>2.200177</ns2:BQ>
+          <ns2:BQ>1.331556</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T17:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T17:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T17:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T17:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>2.285025</ns2:BQ>
+          <ns2:BQ>1.827886</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T17:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T17:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T17:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T17:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.074973</ns2:BQ>
+          <ns2:BQ>0.831043</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T17:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T18:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T17:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T18:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.557962</ns2:BQ>
+          <ns2:BQ>0.942708</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T18:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T18:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T18:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T18:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.309985</ns2:BQ>
+          <ns2:BQ>0.771136</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T18:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T18:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T18:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T18:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.210425</ns2:BQ>
+          <ns2:BQ>0.138073</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T18:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T18:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T18:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T18:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.483761</ns2:BQ>
+          <ns2:BQ>0.928018</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T18:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T19:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T18:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T19:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.501877</ns2:BQ>
+          <ns2:BQ>1.150357</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T19:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T19:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T19:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T19:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.461790</ns2:BQ>
+          <ns2:BQ>0.699755</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T19:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T19:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T19:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T19:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.489325</ns2:BQ>
+          <ns2:BQ>0.784036</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T19:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T19:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T19:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T19:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.500919</ns2:BQ>
+          <ns2:BQ>0.461469</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T19:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T20:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T19:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T20:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.462781</ns2:BQ>
+          <ns2:BQ>0.690449</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T20:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T20:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T20:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T20:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.444305</ns2:BQ>
+          <ns2:BQ>0.933754</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T20:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T20:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T20:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T20:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.774663</ns2:BQ>
+          <ns2:BQ>0.691175</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T20:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T20:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T20:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T20:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.453351</ns2:BQ>
+          <ns2:BQ>0.488445</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T20:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T21:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T20:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T21:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.054365</ns2:BQ>
+          <ns2:BQ>0.901597</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T21:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T21:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T21:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T21:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.416010</ns2:BQ>
+          <ns2:BQ>0.224150</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T21:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T21:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T21:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T21:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.719763</ns2:BQ>
+          <ns2:BQ>0.453527</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T21:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T21:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T21:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T21:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.421312</ns2:BQ>
+          <ns2:BQ>1.067637</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T21:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T22:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T21:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T22:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.843391</ns2:BQ>
+          <ns2:BQ>0.697345</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T22:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T22:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T22:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T22:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.303666</ns2:BQ>
+          <ns2:BQ>0.970922</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T22:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T22:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T22:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T22:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.774686</ns2:BQ>
+          <ns2:BQ>0.192996</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T22:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T22:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T22:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T22:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.027580</ns2:BQ>
+          <ns2:BQ>0.800046</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T22:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T23:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T22:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T23:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.581181</ns2:BQ>
+          <ns2:BQ>0.628407</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T23:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T23:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T23:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T23:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.252541</ns2:BQ>
+          <ns2:BQ>0.657803</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T23:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T23:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T23:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T23:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.534253</ns2:BQ>
+          <ns2:BQ>0.325192</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T23:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T23:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T23:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T23:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.251940</ns2:BQ>
+          <ns2:BQ>0.713358</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T23:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-11T00:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T23:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-13T00:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.675390</ns2:BQ>
+          <ns2:BQ>0.466361</ns2:BQ>
         </ns2:EP>
       </ns2:EnergyData>
     </ns2:Energy>
     <ns2:Energy>
       <ns2:MeteringReason>00</ns2:MeteringReason>
-      <ns2:MeteringPeriodStart>2022-12-10T00:00:00+01:00</ns2:MeteringPeriodStart>
-      <ns2:MeteringPeriodEnd>2022-12-11T00:00:00+01:00</ns2:MeteringPeriodEnd>
+      <ns2:MeteringPeriodStart>2022-12-12T00:00:00+01:00</ns2:MeteringPeriodStart>
+      <ns2:MeteringPeriodEnd>2022-12-13T00:00:00+01:00</ns2:MeteringPeriodEnd>
       <ns2:MeteringIntervall>QH</ns2:MeteringIntervall>
       <ns2:NumberOfMeteringIntervall>96</ns2:NumberOfMeteringIntervall>
       <ns2:EnergyData MeterCode="1-1:2.9.0 G.03" UOM="KWH">
         <ns2:EP>
-          <ns2:DTF>2022-12-10T00:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T00:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T00:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T00:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.659753</ns2:BQ>
+          <ns2:BQ>0.559133</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T00:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T00:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T00:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T00:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.562253</ns2:BQ>
+          <ns2:BQ>0.858169</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T00:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T00:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T00:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T00:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.744632</ns2:BQ>
+          <ns2:BQ>0.243126</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T00:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T01:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T00:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T01:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.808402</ns2:BQ>
+          <ns2:BQ>1.499030</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T01:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T01:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T01:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T01:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.124949</ns2:BQ>
+          <ns2:BQ>0.502458</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T01:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T01:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T01:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T01:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.720844</ns2:BQ>
+          <ns2:BQ>1.154318</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T01:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T01:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T01:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T01:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.269781</ns2:BQ>
+          <ns2:BQ>1.271820</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T01:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T02:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T01:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T02:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.207223</ns2:BQ>
+          <ns2:BQ>1.271513</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T02:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T02:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T02:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T02:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.414591</ns2:BQ>
+          <ns2:BQ>1.870903</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T02:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T02:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T02:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T02:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.255017</ns2:BQ>
+          <ns2:BQ>0.937019</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T02:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T02:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T02:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T02:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.532786</ns2:BQ>
+          <ns2:BQ>1.257995</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T02:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T03:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T02:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T03:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.027019</ns2:BQ>
+          <ns2:BQ>1.105238</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T03:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T03:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T03:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T03:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.366416</ns2:BQ>
+          <ns2:BQ>0.560045</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T03:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T03:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T03:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T03:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.336244</ns2:BQ>
+          <ns2:BQ>0.648953</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T03:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T03:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T03:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T03:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.731363</ns2:BQ>
+          <ns2:BQ>0.045658</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T03:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T04:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T03:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T04:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.397620</ns2:BQ>
+          <ns2:BQ>0.280175</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T04:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T04:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T04:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T04:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.168550</ns2:BQ>
+          <ns2:BQ>1.139866</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T04:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T04:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T04:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T04:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.130845</ns2:BQ>
+          <ns2:BQ>0.018008</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T04:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T04:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T04:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T04:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.953577</ns2:BQ>
+          <ns2:BQ>0.554189</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T04:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T05:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T04:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T05:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.411501</ns2:BQ>
+          <ns2:BQ>0.821633</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T05:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T05:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T05:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T05:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.159318</ns2:BQ>
+          <ns2:BQ>1.412044</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T05:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T05:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T05:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T05:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.263712</ns2:BQ>
+          <ns2:BQ>1.320197</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T05:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T05:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T05:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T05:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.740267</ns2:BQ>
+          <ns2:BQ>1.289306</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T05:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T06:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T05:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T06:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.451339</ns2:BQ>
+          <ns2:BQ>2.235262</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T06:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T06:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T06:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T06:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.108300</ns2:BQ>
+          <ns2:BQ>0.288388</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T06:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T06:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T06:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T06:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.188637</ns2:BQ>
+          <ns2:BQ>2.112114</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T06:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T06:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T06:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T06:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.947486</ns2:BQ>
+          <ns2:BQ>0.365243</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T06:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T07:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T06:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T07:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.094233</ns2:BQ>
+          <ns2:BQ>0.502245</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T07:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T07:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T07:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T07:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.313190</ns2:BQ>
+          <ns2:BQ>0.421659</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T07:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T07:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T07:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T07:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.711192</ns2:BQ>
+          <ns2:BQ>1.757058</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T07:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T07:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T07:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T07:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.383934</ns2:BQ>
+          <ns2:BQ>1.764702</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T07:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T08:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T07:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T08:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.113239</ns2:BQ>
+          <ns2:BQ>0.614694</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T08:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T08:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T08:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T08:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.709564</ns2:BQ>
+          <ns2:BQ>1.126406</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T08:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T08:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T08:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T08:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.544739</ns2:BQ>
+          <ns2:BQ>1.068611</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T08:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T08:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T08:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T08:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.129715</ns2:BQ>
+          <ns2:BQ>1.917769</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T08:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T09:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T08:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T09:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.369927</ns2:BQ>
+          <ns2:BQ>0.969140</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T09:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T09:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T09:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T09:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.353840</ns2:BQ>
+          <ns2:BQ>1.393471</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T09:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T09:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T09:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T09:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.654918</ns2:BQ>
+          <ns2:BQ>0.820248</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T09:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T09:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T09:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T09:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.187947</ns2:BQ>
+          <ns2:BQ>1.247108</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T09:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T10:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T09:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T10:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.328218</ns2:BQ>
+          <ns2:BQ>1.905864</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T10:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T10:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T10:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T10:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.472738</ns2:BQ>
+          <ns2:BQ>0.044178</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T10:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T10:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T10:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T10:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.065451</ns2:BQ>
+          <ns2:BQ>2.019316</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T10:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T10:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T10:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T10:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.245269</ns2:BQ>
+          <ns2:BQ>1.900238</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T10:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T11:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T10:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T11:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.128067</ns2:BQ>
+          <ns2:BQ>0.904456</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T11:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T11:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T11:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T11:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.547078</ns2:BQ>
+          <ns2:BQ>0.855328</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T11:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T11:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T11:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T11:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.465987</ns2:BQ>
+          <ns2:BQ>0.480699</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T11:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T11:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T11:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T11:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.417937</ns2:BQ>
+          <ns2:BQ>1.241929</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T11:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T12:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T11:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T12:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.722472</ns2:BQ>
+          <ns2:BQ>0.034547</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T12:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T12:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T12:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T12:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.278503</ns2:BQ>
+          <ns2:BQ>0.706486</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T12:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T12:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T12:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T12:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.658884</ns2:BQ>
+          <ns2:BQ>1.960405</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T12:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T12:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T12:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T12:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.352360</ns2:BQ>
+          <ns2:BQ>2.691523</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T12:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T13:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T12:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T13:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.431898</ns2:BQ>
+          <ns2:BQ>1.668463</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T13:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T13:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T13:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T13:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.068788</ns2:BQ>
+          <ns2:BQ>3.144751</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T13:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T13:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T13:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T13:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.763446</ns2:BQ>
+          <ns2:BQ>3.065735</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T13:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T13:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T13:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T13:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.235198</ns2:BQ>
+          <ns2:BQ>2.326486</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T13:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T14:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T13:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T14:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.332574</ns2:BQ>
+          <ns2:BQ>1.262141</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T14:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T14:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T14:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T14:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.640663</ns2:BQ>
+          <ns2:BQ>0.385898</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T14:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T14:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T14:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T14:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.576490</ns2:BQ>
+          <ns2:BQ>1.206330</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T14:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T14:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T14:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T14:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.115190</ns2:BQ>
+          <ns2:BQ>0.550441</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T14:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T15:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T14:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T15:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.911932</ns2:BQ>
+          <ns2:BQ>1.607035</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T15:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T15:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T15:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T15:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.926448</ns2:BQ>
+          <ns2:BQ>0.333639</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T15:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T15:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T15:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T15:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>2.087572</ns2:BQ>
+          <ns2:BQ>0.803719</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T15:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T15:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T15:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T15:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.931302</ns2:BQ>
+          <ns2:BQ>0.437436</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T15:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T16:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T15:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T16:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.403988</ns2:BQ>
+          <ns2:BQ>0.310296</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T16:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T16:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T16:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T16:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>2.178976</ns2:BQ>
+          <ns2:BQ>2.540492</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T16:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T16:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T16:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T16:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.433078</ns2:BQ>
+          <ns2:BQ>1.955020</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T16:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T16:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T16:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T16:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.314438</ns2:BQ>
+          <ns2:BQ>2.159063</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T16:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T17:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T16:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T17:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.696777</ns2:BQ>
+          <ns2:BQ>0.844094</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T17:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T17:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T17:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T17:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.943236</ns2:BQ>
+          <ns2:BQ>2.378043</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T17:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T17:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T17:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T17:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.306812</ns2:BQ>
+          <ns2:BQ>0.942977</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T17:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T17:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T17:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T17:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.819617</ns2:BQ>
+          <ns2:BQ>1.624936</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T17:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T18:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T17:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T18:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.146614</ns2:BQ>
+          <ns2:BQ>1.224474</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T18:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T18:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T18:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T18:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.643492</ns2:BQ>
+          <ns2:BQ>0.998049</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T18:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T18:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T18:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T18:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.677934</ns2:BQ>
+          <ns2:BQ>1.139851</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T18:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T18:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T18:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T18:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.205235</ns2:BQ>
+          <ns2:BQ>1.265465</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T18:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T19:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T18:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T19:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.676651</ns2:BQ>
+          <ns2:BQ>1.294121</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T19:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T19:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T19:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T19:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.195459</ns2:BQ>
+          <ns2:BQ>0.176073</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T19:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T19:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T19:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T19:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.130535</ns2:BQ>
+          <ns2:BQ>0.393717</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T19:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T19:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T19:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T19:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.112799</ns2:BQ>
+          <ns2:BQ>0.060867</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T19:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T20:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T19:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T20:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.770768</ns2:BQ>
+          <ns2:BQ>1.357748</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T20:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T20:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T20:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T20:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.880501</ns2:BQ>
+          <ns2:BQ>0.210051</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T20:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T20:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T20:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T20:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.233335</ns2:BQ>
+          <ns2:BQ>1.973284</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T20:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T20:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T20:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T20:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.229207</ns2:BQ>
+          <ns2:BQ>0.552955</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T20:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T21:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T20:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T21:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.567050</ns2:BQ>
+          <ns2:BQ>1.200582</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T21:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T21:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T21:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T21:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.616500</ns2:BQ>
+          <ns2:BQ>0.128244</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T21:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T21:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T21:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T21:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.217493</ns2:BQ>
+          <ns2:BQ>1.320381</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T21:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T21:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T21:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T21:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.951430</ns2:BQ>
+          <ns2:BQ>1.660111</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T21:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T22:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T21:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T22:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.334187</ns2:BQ>
+          <ns2:BQ>0.795349</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T22:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T22:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T22:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T22:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.138246</ns2:BQ>
+          <ns2:BQ>1.747391</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T22:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T22:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T22:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T22:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>1.490940</ns2:BQ>
+          <ns2:BQ>0.489071</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T22:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T22:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T22:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T22:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.304097</ns2:BQ>
+          <ns2:BQ>2.212339</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T22:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T23:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T22:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T23:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.118298</ns2:BQ>
+          <ns2:BQ>2.060076</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T23:00:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T23:15:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T23:00:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T23:15:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.167737</ns2:BQ>
+          <ns2:BQ>1.252295</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T23:15:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T23:30:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T23:15:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T23:30:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.440892</ns2:BQ>
+          <ns2:BQ>1.081088</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T23:30:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-10T23:45:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T23:30:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-12T23:45:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.770809</ns2:BQ>
+          <ns2:BQ>0.382269</ns2:BQ>
         </ns2:EP>
         <ns2:EP>
-          <ns2:DTF>2022-12-10T23:45:00+01:00</ns2:DTF>
-          <ns2:DTT>2022-12-11T00:00:00+01:00</ns2:DTT>
+          <ns2:DTF>2022-12-12T23:45:00+01:00</ns2:DTF>
+          <ns2:DTT>2022-12-13T00:00:00+01:00</ns2:DTT>
           <ns2:MM>L1</ns2:MM>
-          <ns2:BQ>0.879578</ns2:BQ>
+          <ns2:BQ>1.239098</ns2:BQ>
         </ns2:EP>
       </ns2:EnergyData>
     </ns2:Energy>

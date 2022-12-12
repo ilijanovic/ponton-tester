@@ -4,7 +4,7 @@ import { createDatenMsg } from "./xmlbuilder/daten_msg";
 import { writeFile } from "./service/utils";
 import { config } from "./config";
 
-let root = dayjs().startOf("day");
+let root = dayjs().subtract(1, "day").startOf("day");
 
 let energydata: EnergyDataT[] = [];
 export const meterCodes = [
@@ -48,12 +48,13 @@ meterCodes.forEach((metercode) => {
           : energydata[1]?.data[i]?.BQ
       );
     }
-    data.push({
+    let point = {
       BQ: bq,
       DTF: root.add(15 * i, "minute").format("YYYY-MM-DDTHH:mm:ss+01:00"),
       DTT: root.add(15 * (i + 1), "minute").format("YYYY-MM-DDTHH:mm:ss+01:00"),
       MM: "L1",
-    });
+    };
+    data.push(point);
   }
   energydata.push({
     MeterCode: metercode,
